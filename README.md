@@ -24,7 +24,7 @@ need help choosing between them.
 ## Install
 
 ```bash
-npm install -g yo generator-license.txt
+npm install -g yo generator-licensetxt
 ```
 
 ## Usage
