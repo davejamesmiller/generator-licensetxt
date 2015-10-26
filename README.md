@@ -1,5 +1,9 @@
 # Yo License.txt
 
+**Note:** No longer maintained - [may not work](https://github.com/davejamesmiller/generator-licensetxt/issues/1). Possible alternative: [generator-license](https://www.npmjs.com/package/generator-license).
+
+---
+
 Generates a LICENSE.txt file - choose from 15 licenses:
 
 * [Affero GPL](http://choosealicense.com/licenses/agpl/)
